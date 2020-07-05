@@ -1,0 +1,2 @@
+C:\Users\김동진\Documents\GitHub\Hello-World\practice on my own\Debug\practice on my own.exe
+C:\Users\김동진\Documents\GitHub\Hello-World\practice on my own\Debug\practice on my own.pdb
