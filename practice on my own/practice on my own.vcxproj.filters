@@ -63,5 +63,8 @@
     <ClCompile Include="if. quadrant.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="if- alarm clock.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
