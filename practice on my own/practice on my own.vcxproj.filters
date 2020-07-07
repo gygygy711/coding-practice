@@ -66,5 +66,8 @@
     <ClCompile Include="if- alarm clock.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="multiplication table.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
